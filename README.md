@@ -1,4 +1,4 @@
-# E-Booking Backend - Flights & Rooms
+# E-Booking Backend - Flights & Hotels
 
 ## Overview
 
@@ -6,12 +6,12 @@ This project is a **Spring Boot**-based backend for an online booking platform. 
 
 ## Features
 
-- **User Authentication**: Login, registration, and JWT-based authentication.
+
 - **Flight API**: Search flights by destination, date, and number of passengers.
 - **Room API**: Search available hotel rooms by location, date, and number of guests.
 - **Booking API**: Manage user bookings, including creating, viewing, and deleting bookings.
-- **Database**: Uses a relational database to store flight, hotel, and booking information.
-- **Error Handling**: Global error handling using Spring Boot's exception handling mechanisms.
+- **Database**: Uses a relational database (MySQL) to store flight, hotel, and booking information.
+
 
 ## Technology Stack
 
