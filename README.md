@@ -17,7 +17,6 @@ This project is a **Spring Boot**-based backend for an online booking platform. 
 
 - **Spring Boot**: Backend framework to build the REST APIs.
 - **Spring Security**: For authentication and role-based authorization.
-- **JWT (JSON Web Tokens)**: For secure and stateless user authentication.
 - **Hibernate/JPA**: For object-relational mapping (ORM) and database interaction.
 - **MySQL**: Relational database for storing flight and booking data.
 - **Maven**: Dependency management and project build tool.
@@ -36,4 +35,4 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/chebbi11/E-Booking-Spring.git
-cd e-booking-backend
+
